@@ -1,0 +1,9 @@
+[submodule "Source_Projects/DuelingX"]
+	path = Source_Projects/DuelingX
+	url = git@github.com:zruncho3d/DuelingX.git
+[submodule "Source_Projects/TAZ6"]
+	path = Source_Projects/TAZ6
+	url = git@gitlab.com:lulzbot3d/printers/olive.git
+[submodule "Source_Projects/Voron-Trident"]
+	path = Source_Projects/Voron-Trident
+	url = git@github.com:VoronDesign/Voron-Trident.git
